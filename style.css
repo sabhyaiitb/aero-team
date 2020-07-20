@@ -12,7 +12,10 @@ body {
     background: linear-gradient(#111c , #111c) center fixed no-repeat, url("aero2.png") center fixed no-repeat, black !important;
     background-size: 100%, 50%;
 }
-
+}
+#head {
+    background-color: #141514 !important;
+}
 
 #logo-n-title, #navbar {
     display: inline-block;
